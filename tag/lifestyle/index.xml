@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifestyle | Academic</title>
+    <link>https://example.com/tag/lifestyle/</link>
+      <atom:link href="https://example.com/tag/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lifestyle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Lifestyle</title>
+      <link>https://example.com/tag/lifestyle/</link>
+    </image>
+    
+    <item>
+      <title>Что делать, если стало скучно в общежитии?</title>
+      <link>https://example.com/post/jupyter/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/jupyter/</guid>
+      <description>&lt;h1 id=&#34;мои-любимые-занятияэто&#34;&gt;Мои любимые занятия,это&amp;hellip;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Бисероплетение. Это занятие может затянуть меня на несколько минут, часов, дней. В основном, я делаю колечки, браслетики, бусики. Пока что мой скилл не прокачен, но я иду к этому.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Доставать соседей. Нет, ну а что такого? Я просто захожу в разные комнаты и начинаю вести беседу. В половине случаев меня посылают туда, откуда я пришла. Нооо, я все равно добиваюсь своего.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Смотреть &amp;ldquo;Постучись в мою дверь&amp;rdquo;. Или как называю это я, смотреть Серкана Болата. Иногда смотрю на турецком, но это только по вторниками.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Готовить. Можно увлечься, и приготовить себе пропитание на неделю вперед.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Пойти помыться. Можно вообще устроить СПА-день. Вот поэтому я всегда хорошо выгляжу, просто потому что мне часто становится скучно.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
