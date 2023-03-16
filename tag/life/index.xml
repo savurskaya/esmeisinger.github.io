@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life | Academic</title>
+    <link>https://example.com/tag/life/</link>
+      <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Life</title>
+      <link>https://example.com/tag/life/</link>
+    </image>
+    
+    <item>
+      <title>Как стирать свитер в машинке?</title>
+      <link>https://example.com/post/sveter/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/sveter/</guid>
+      <description>&lt;h1 id=&#34;как-стирать-свитер-в-машинке&#34;&gt;Как стирать свитер в машинке?&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Вещи, изготовленные из шерсти, нельзя стирать при температуре выше 30 градусов.&lt;/li&gt;
+&lt;li&gt;Слишком холодную воду использовать тоже не нужно. Иначе размер шерстяной вещи станет значительно меньше, она сваляется, будет напоминать валенок.&lt;/li&gt;
+&lt;li&gt;Выполаскивать шерсть следует при аналогичной температуре.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
